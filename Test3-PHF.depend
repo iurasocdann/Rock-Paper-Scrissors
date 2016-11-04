@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1476478408 source:d:\programe c++\test3-phf\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1476894922 source:e:\programe c++\test3-phf\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
